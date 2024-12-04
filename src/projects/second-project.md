@@ -9,7 +9,6 @@ metaDescription: This is a sample meta description. If one is not present in
 tags:
   - landingcopy
   - contentwriting
-  - ""
 ---
 TRANSFORM YOUR LIFE IN THE HEART OF BALI
 
