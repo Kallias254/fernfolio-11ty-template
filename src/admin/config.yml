@@ -8,13 +8,6 @@ backend:
 media_folder: "src/assets/img" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img" # The src attribute for uploaded media
 
-# Optional but recommended for better media handling
-media_library:
-  name: "netlify"
-  config:
-    multiple: true # Allow multiple file selection
-    choose_url: true # Allow external URL input
-
 collections:
   #Global Settings
   - name: "global-settings"
